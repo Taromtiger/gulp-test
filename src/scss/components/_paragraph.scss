@@ -1,0 +1,15 @@
+.fonts {
+  &__ubuntu-bold {
+    font-weight: 700;
+  }
+
+  &__lato-bold,
+  &__lato-dark {
+    font-family: "Lato", sans-serif;
+    font-weight: 700;
+  }
+
+  &__lato-dark {
+    font-weight: 900;
+  }
+}
